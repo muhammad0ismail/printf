@@ -66,9 +66,9 @@ p : int input is converted to a pointer address
 
 8. The big print gives and the small print takes away
 Handle the following flag characters for non-custom conversion specifiers:
- + : adds a + in front of signed positive numbers and a - in front of signed negative numbers
+ adds a + in front of signed positive numbers and a - in front of signed negative numbers
  space : same as +, but adds a space (is overwritten by +)
- # : adds a 0 in front of octal conversions that don't begin with one, and a 0x or 0X for x or X conversions
+ adds a 0 in front of octal conversions that don't begin with one, and a 0x or 0X for x or X conversions
 
 9. Sarcasm is lost in print]
 Handle the following length modifiers for non-custom conversion specifiers:
